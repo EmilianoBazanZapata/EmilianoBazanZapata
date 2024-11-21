@@ -11,6 +11,9 @@
 - 🎓 Estudiante en **UTN Buenos Aires** en Administración y Desarrollo de Videojuegos.
 - 🌍 Vivo en Argentina, soñando con crear mi propio estudio de videojuegos.
 
+## 🛠️ Lenguajes más utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoBazanZapata&layout=compact&theme=radical)
+
 ---
 
 ## 🛠️ Tecnologías y habilidades
