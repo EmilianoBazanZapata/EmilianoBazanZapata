@@ -81,7 +81,7 @@ Actualmente trabajo en proyectos personales que van desde aplicaciones multiplat
 
 ## ⏱️ Timely
 
-Aplicación multiplataforma de seguimiento y gestión de tiempo desarrollada con **.NET MAUI**.
+Aplicación multiplataforma de seguimiento y gestión de tiempo desarrollada con **.NET MAUI** y publicada en **Google Play**.
 
 ### Tecnologías y conceptos
 
@@ -97,6 +97,10 @@ Aplicación multiplataforma de seguimiento y gestión de tiempo desarrollada con
 * Arquitectura modular
 
 El proyecto comenzó como una aplicación relativamente pequeña y evolucionó progresivamente hacia una arquitectura más escalable y mantenible.
+
+📱 **Disponible en Google Play:**
+[Ver Timely en Google Play](https://play.google.com/store/apps/details?id=com.binarysuns.timely)
+
 
 ---
 
