@@ -6,20 +6,33 @@ Soy desarrollador de software especializado en el ecosistema **.NET** y estudian
 
 Me interesa especialmente la arquitectura de software, el desarrollo de videojuegos y la combinación entre **programación y arte 3D**.
 
-Actualmente trabajo en proyectos personales que van desde aplicaciones multiplataforma hasta videojuegos desarrollados con **Unity y Unreal Engine**.
+Actualmente trabajo en proyectos personales y académicos que van desde aplicaciones multiplataforma hasta videojuegos desarrollados con **Unity y Unreal Engine**.
+
+---
+
+## 🔗 Acceso rápido
+
+🎮 **WesternShooter — Unity 6 / C# / Modular Monolith**  
+👉 [github.com/EmilianoBazanZapata/WesternShooter](https://github.com/EmilianoBazanZapata/WesternShooter)
+
+⏱️ **Timely — .NET MAUI**  
+👉 [Disponible en Google Play](https://play.google.com/store/apps/details?id=com.binarysuns.timely)
+
+💼 **LinkedIn**  
+👉 [linkedin.com/in/emiliano-bazán-zapata-18705721a](https://www.linkedin.com/in/emiliano-bazán-zapata-18705721a)
 
 ---
 
 ## 🚀 Sobre mí
 
-* 💻 **Desarrollador .NET Semi-Senior**
-* 🎓 Estudiante de **Administración y Desarrollo de Videojuegos — UTN**
-* 🎮 Desarrollo de videojuegos con **Unity, Unreal Engine, C# y C++**
-* 📱 Desarrollo de aplicaciones multiplataforma con **.NET MAUI**
-* 🧱 Interesado en **Clean Architecture, Vertical Slice Architecture y sistemas modulares**
-* 🎨 Experiencia en **Blender y Adobe Illustrator**
-* 🌎 Argentina
-* 🌌 Objetivo a largo plazo: crear mi propio **estudio de videojuegos**
+- 💻 **Desarrollador .NET Semi-Senior**
+- 🎓 Estudiante de **Administración y Desarrollo de Videojuegos — UTN**
+- 🎮 Desarrollo de videojuegos con **Unity, Unreal Engine, C# y C++**
+- 📱 Desarrollo de aplicaciones multiplataforma con **.NET MAUI**
+- 🧱 Interés en **Clean Architecture, Vertical Slice Architecture y sistemas modulares**
+- 🎨 Experiencia con **Blender y Adobe Illustrator**
+- 🌎 Argentina
+- 🌌 Objetivo a largo plazo: crear mi propio **estudio de videojuegos**
 
 ---
 
@@ -27,57 +40,104 @@ Actualmente trabajo en proyectos personales que van desde aplicaciones multiplat
 
 ## 💻 Lenguajes
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-3776AB?style=for-the-badge)
-
----
+`C#` `C++` `SQL`
 
 ## 🌐 Backend & aplicaciones
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-
----
+`.NET` `.NET MAUI` `Entity Framework Core` `MediatR` `FluentValidation`
 
 ## 🗄️ Bases de datos
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
----
+`SQLite` `SQL Server`
 
 ## ⚙️ Herramientas
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
+`Git` `GitHub` `Azure DevOps` `Visual Studio` `Rider`
 
 ## 🎮 Game Development
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23_Gameplay-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![C++](https://img.shields.io/badge/C++_Gameplay-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
----
+`Unity` `Unreal Engine` `URP` `Unity Input System` `NavMesh`
 
 ## 🎨 Arte y diseño
 
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
+`Blender` `Adobe Illustrator`
 
 ---
 
 # 🚀 Proyectos destacados
+
+## 🤠 WesternShooter
+
+> 🎮 **Repositorio:**  
+> [github.com/EmilianoBazanZapata/WesternShooter](https://github.com/EmilianoBazanZapata/WesternShooter)
+
+**WesternShooter** es un prototipo de shooter western en tercera persona desarrollado con **Unity 6 y C#**.
+
+El proyecto nació principalmente como un trabajo académico enfocado en **audio interactivo**, utilizando un gameplay compacto como soporte para experimentar con música adaptativa, snapshots, ambientación, voces y efectos de sonido.
+
+Posteriormente utilicé el proyecto como ejercicio de **refactorización y arquitectura aplicada a videojuegos**, reorganizando progresivamente el código hacia un enfoque de **monolito modular**.
+
+### 🎧 Audio interactivo
+
+El proyecto incluye sistemas como:
+
+- Audio Mixer con buses independientes.
+- Música adaptativa.
+- Snapshots según el estado del gameplay.
+- Ambientes.
+- Voces del jugador.
+- Audio de enemigos.
+- Transiciones entre estados de audio.
+- Control independiente de Music, SFX, Voice y Ambience.
+
+### 🧱 Arquitectura
+
+Actualmente el proyecto se encuentra dividido en módulos:
+
+```text
+WesternShooter.Shared
+WesternShooter.Player
+WesternShooter.Zombies
+WesternShooter.Spawning
+WesternShooter.Audio
+WesternShooter.Camera
+WesternShooter.GameFlow
+WesternShooter.UI
+```
+
+Cada módulo posee responsabilidades específicas y sus dependencias están reforzadas mediante **Unity Assembly Definition Files (`.asmdef`)**.
+
+Entre los conceptos aplicados se encuentran:
+
+- Modular Monolith
+- Separation of Concerns
+- Event-Driven Communication
+- State Machines
+- Assembly Definitions
+- Dependency boundaries
+- Pure C# domain models
+- Unity lifecycle management
+
+### 🎮 Gameplay
+
+El jugador puede:
+
+- desplazarse por el escenario;
+- correr;
+- apuntar;
+- disparar;
+- combatir zombies;
+- recibir daño;
+- activar estados de audio mediante gameplay;
+- alcanzar estados de victoria o derrota.
+
+El alcance del gameplay es deliberadamente pequeño porque el objetivo principal del proyecto es experimentar con **audio interactivo y arquitectura de gameplay**.
+
+### 🔗 Ver proyecto
+
+👉 **[Abrir WesternShooter en GitHub](https://github.com/EmilianoBazanZapata/WesternShooter)**
+
+---
 
 ## ⏱️ Timely
 
@@ -85,41 +145,22 @@ Aplicación multiplataforma de seguimiento y gestión de tiempo desarrollada con
 
 ### Tecnologías y conceptos
 
-* .NET MAUI
-* C#
-* Entity Framework Core
-* SQLite
-* MediatR
-* FluentValidation
-* MVVM
-* Dependency Injection
-* Vertical Slice Architecture
-* Arquitectura modular
+- .NET MAUI
+- C#
+- Entity Framework Core
+- SQLite
+- MediatR
+- FluentValidation
+- MVVM
+- Dependency Injection
+- Vertical Slice Architecture
+- Arquitectura modular
 
 El proyecto comenzó como una aplicación relativamente pequeña y evolucionó progresivamente hacia una arquitectura más escalable y mantenible.
 
-📱 **Disponible en Google Play:**
-[Ver Timely en Google Play](https://play.google.com/store/apps/details?id=com.binarysuns.timely)
+### 📱 Disponible en Google Play
 
-
----
-
-## 🤠 WesternShooter
-
-Videojuego desarrollado con **Unity 6 y C#**, utilizado también como proyecto de experimentación, aprendizaje y aplicación de arquitectura de software al desarrollo de videojuegos.
-
-El proyecto está organizado en sistemas independientes como:
-
-* Player
-* Zombies
-* Spawning
-* Game Flow
-* Audio
-* Camera
-* UI
-* Shared
-
-Utiliza **Assembly Definitions**, comunicación mediante eventos y separación de responsabilidades para reducir dependencias entre componentes y mejorar la mantenibilidad del código.
+👉 [Ver Timely en Google Play](https://play.google.com/store/apps/details?id=com.binarysuns.timely)
 
 ---
 
@@ -129,29 +170,31 @@ Implementación completa de **Tetris desarrollada en C# utilizando SDL Tao**.
 
 Incluye:
 
-* Sistema de puntuación
-* Condiciones de victoria y derrota
-* Controles mediante teclado y mouse
-* Lógica completa de piezas y tablero
-* Arquitectura modular basada en principios de **Clean Architecture**
+- Sistema de puntuación.
+- Condiciones de victoria y derrota.
+- Controles mediante teclado y mouse.
+- Lógica completa de piezas y tablero.
+- Arquitectura modular basada en principios de **Clean Architecture**.
 
 ---
 
-# 🧠 Arquitectura y conceptos que me interesan
+# 🧠 Arquitectura y desarrollo de software
 
 Además del desarrollo funcional, utilizo mis proyectos para experimentar y profundizar en conceptos como:
 
-* Clean Architecture
-* Vertical Slice Architecture
-* Modular Monolith
-* Dependency Injection
-* Event-Driven Systems
-* SOLID
-* Separation of Concerns
-* Diseño de sistemas para videojuegos
-* Arquitectura de gameplay
-* Optimización
-* Mantenibilidad y escalabilidad de código
+- Clean Architecture
+- Vertical Slice Architecture
+- Modular Monolith
+- Dependency Injection
+- Event-Driven Systems
+- SOLID
+- Separation of Concerns
+- Diseño de sistemas para videojuegos
+- Arquitectura de gameplay
+- Optimización
+- Mantenibilidad y escalabilidad de código
+
+Me interesa especialmente trasladar conceptos utilizados tradicionalmente en desarrollo de software al contexto de los videojuegos sin agregar complejidad innecesaria.
 
 ---
 
@@ -159,15 +202,15 @@ Además del desarrollo funcional, utilizo mis proyectos para experimentar y prof
 
 Estoy profundizando mis conocimientos en:
 
-* 🕹️ Unity
-* ⚙️ Unreal Engine
-* 💻 C++ aplicado al desarrollo de videojuegos
-* 🎮 Arquitectura para videojuegos
-* ⚡ Optimización de gameplay
-* 🌐 Servicios online para videojuegos
-* ☁️ Cloud y backend
-* 🎨 Modelado y diseño 3D
-* 🧠 Diseño de motores y sistemas de videojuegos
+- 🕹️ Unity
+- ⚙️ Unreal Engine
+- 💻 C++ aplicado al desarrollo de videojuegos
+- 🎮 Arquitectura para videojuegos
+- ⚡ Optimización de gameplay
+- 🌐 Servicios online para videojuegos
+- ☁️ Cloud y backend
+- 🎨 Modelado y diseño 3D
+- 🧠 Diseño de motores y sistemas de videojuegos
 
 ---
 
@@ -185,16 +228,16 @@ También busco seguir creciendo como desarrollador, experimentar con distintas t
 
 # 📫 Contacto
 
-💼 **LinkedIn**
+💼 **LinkedIn**  
 [linkedin.com/in/emiliano-bazán-zapata-18705721a](https://www.linkedin.com/in/emiliano-bazán-zapata-18705721a)
 
-🐙 **GitHub**
+🐙 **GitHub**  
 [github.com/EmilianoBazanZapata](https://github.com/EmilianoBazanZapata)
 
-📧 **Email**
+📧 **Email**  
 [emilianobz546@gmail.com](mailto:emilianobz546@gmail.com)
 
-🌐 **Portfolio**
+🌐 **Portfolio**  
 🚧 Próximamente...
 
 ---
