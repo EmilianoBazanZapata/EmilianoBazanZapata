@@ -12,6 +12,9 @@ Actualmente trabajo en proyectos personales y académicos que van desde aplicaci
 
 ## 🔗 Acceso rápido
 
+🏎️ **Apex Rivals — Unity 6 / C# / Arcade Racing**
+👉 [github.com/EmilianoBazanZapata/ApexRivals](https://github.com/EmilianoBazanZapata/ApexRivals)
+
 🤠 **WesternShooter — Unity 6 / C# / Modular Monolith**
 👉 [github.com/EmilianoBazanZapata/WesternShooter](https://github.com/EmilianoBazanZapata/WesternShooter)
 
@@ -71,6 +74,81 @@ Actualmente trabajo en proyectos personales y académicos que van desde aplicaci
 ---
 
 # 🚀 Proyectos destacados
+
+## 🏎️ Apex Rivals
+
+> 🎮 **Repositorio:**  
+> [github.com/EmilianoBazanZapata/ApexRivals](https://github.com/EmilianoBazanZapata/ApexRivals)
+
+**Apex Rivals** es un juego de carreras arcade 3D para PC desarrollado con **Unity 6 y C#** bajo el nombre **Binary Suns Studio**.
+
+El proyecto se encuentra actualmente en etapa de **demo jugable** y fue desarrollado como proyecto individual para **Motores de Desarrollo I**. Su flujo principal conecta selección y mejora de vehículos, carrera contra un rival controlado por una IA experimental, resultados, recompensas y persistencia del progreso.
+
+### 🎮 Gameplay y sistemas
+
+La demo incluye:
+
+* conducción arcade basada en `WheelCollider`;
+* aceleración, frenado, reversa y drift / handbrake;
+* caja automática y telemetría de velocidad, marcha y RPM;
+* recuperación manual del vehículo volcado;
+* cámara de seguimiento con comportamiento específico para drift y reversa;
+* checkpoints, vueltas, posición en carrera y resultados;
+* selección de vehículos;
+* mejoras de Engine y Handling;
+* recompensas y persistencia del progreso;
+* Main Menu, Settings, Garage, Race HUD, Pause y Results;
+* soporte para teclado y gamepad Xbox-compatible.
+
+### 🤖 IA experimental
+
+El rival utiliza una implementación experimental basada en **Racing Line**, lookahead, control de velocidad, rejoin y recovery.
+
+La IA continúa en desarrollo y forma parte de las áreas que seguirán siendo ajustadas en futuras iteraciones.
+
+### 🧱 Arquitectura
+
+El proyecto está organizado de forma modular por dominio, separando responsabilidades entre sistemas como:
+
+```text
+AI
+Bootstrap
+Camera
+Garage
+Input
+Progression
+Race
+RaceSetup
+RaceSession
+SaveSystem
+SceneFlow
+Settings
+UI
+Vehicle
+VehicleSelection
+```
+
+Entre las decisiones técnicas aplicadas se encuentran:
+
+* composición centralizada mediante `GameBootstrapper` y `ApplicationContext`;
+* contrato común `IDrivingInputProvider` para Player y AI;
+* separación entre Race Core, Race Setup y Race Session;
+* configuración mediante assets;
+* Presenter/View para la presentación de UI;
+* persistencia JSON versionada con archivo temporal y backup;
+* pruebas Edit Mode y Play Mode con Unity Test Framework.
+
+### 🧪 Testing y documentación
+
+El proyecto incluye testing automatizado y pruebas manuales sobre conducción, cámara, colisiones, carrera, Garage, persistencia y UI.
+
+El repositorio también documenta la correspondencia entre la implementación y los requisitos técnicos del proyecto académico, junto con el GDD / High Concept y el Primer Informe de Testing.
+
+### 🔗 Ver proyecto
+
+👉 **[Abrir Apex Rivals en GitHub](https://github.com/EmilianoBazanZapata/ApexRivals)**
+
+---
 
 ## 🤠 WesternShooter
 
@@ -262,6 +340,7 @@ Estoy profundizando mis conocimientos en:
 * ⚙️ Unreal Engine
 * 💻 C++ aplicado al desarrollo de videojuegos
 * 🎮 Arquitectura para videojuegos
+* 🏎️ Física y conducción arcade para vehículos
 * 🧱 Diseño de sistemas de gameplay
 * ⚡ Optimización
 * 🌐 Servicios online para videojuegos
