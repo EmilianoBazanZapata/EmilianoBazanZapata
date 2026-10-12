@@ -39,6 +39,8 @@ Training projects I used to go deeper into API and service architecture.
 | 🔀 **.NET Microservices** | Banking and Transfer services talking through RabbitMQ · .NET 8 | Clean Architecture, CQRS, Docker, PostgreSQL, Azure deployment | [Repo](https://github.com/EmilianoBazanZapata/Microservices-.Net) |
 | 🎬 **Clean Architecture & DDD** | API for a streaming catalog · .NET 6 | DDD, CQRS with MediatR, FluentValidation, Identity, unit tests | [Repo](https://github.com/EmilianoBazanZapata/ASP.NET-Clean-Architecture-y-Domain-Driven-Design-DDD-) |
 | 🏨 **Hotel Listing API** | Hotel listing Web API · .NET 6 | EF Core CRUD, JWT with roles, Serilog, error-handling middleware, Azure deployment | [Repo](https://github.com/EmilianoBazanZapata/ASP.NET-Core-Web-API-Development-Guide) |
+| 🧩 **Base Architecture with CQRS** | Starter template for new APIs · .NET 6 | Clean Architecture without repositories: handlers on an `IApplicationDbContext`, MediatR behaviours, JWT | [Repo](https://github.com/EmilianoBazanZapata/Arquitectura-Base-CQRS-) |
+| 📘 **Swagger + ReDoc** | API documentation proof of concept · .NET 6 | Two OpenAPI documents from one API, split by controller group | [Repo](https://github.com/EmilianoBazanZapata/REDOC---.NET) |
 
 ---
 
