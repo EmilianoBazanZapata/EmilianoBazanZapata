@@ -25,6 +25,7 @@ I hold a University Technical Degree in Programming (UTN FRC) and I'm currently 
 | 👑 **Jorge: El Rey Justiciero** | 2D endless runner · Unity | Legacy code modernization: FSM, Input System, asmdefs | [Repo](https://github.com/EmilianoBazanZapata/JorgeElReyJusticiero) |
 | 💣 **MineGrid** | Pixel-art Minesweeper · Unity 6 | Rules separated from presentation, uniform mine placement | [Play](https://emiliano-bazan-zapata.itch.io/minegrid-pixel-minesweeper) · [Repo](https://github.com/EmilianoBazanZapata/Buscaminas) |
 | 🧱 **Tetris** | Tetris in C# on SDL (Tao.Sdl), no engine | Clean Architecture with Strategy, Observer, Factory and Singleton | [Repo](https://github.com/EmilianoBazanZapata/Tetris-Sdl-Tao) |
+| 🏁 **Race Results** | Race results console app · .NET 10 | Explicit sorting and search, feature folders, input validation, 30 xUnit tests | [Repo](https://github.com/EmilianoBazanZapata/RaceResult) |
 | ⏱️ **Timely** | Time-tracking app · .NET MAUI | Vertical Slice, MediatR and EF Core in a published mobile app | [Google Play](https://play.google.com/store/apps/details?id=com.binarysuns.timely) |
 
 Each repository has its own README with screenshots, controls, architecture and how to run it.

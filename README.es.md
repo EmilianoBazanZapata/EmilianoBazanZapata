@@ -25,6 +25,7 @@ Soy Técnico Universitario en Programación (UTN FRC) y hoy curso la **Tecnicatu
 | 👑 **Jorge: El Rey Justiciero** | Endless runner 2D · Unity | Modernización de código legacy: FSM, Input System, asmdefs | [Repo](https://github.com/EmilianoBazanZapata/JorgeElReyJusticiero) |
 | 💣 **MineGrid** | Buscaminas pixel art · Unity 6 | Reglas separadas de la presentación, colocación uniforme de minas | [Jugar](https://emiliano-bazan-zapata.itch.io/minegrid-pixel-minesweeper) · [Repo](https://github.com/EmilianoBazanZapata/Buscaminas) |
 | 🧱 **Tetris** | Tetris en C# sobre SDL (Tao.Sdl), sin motor | Clean Architecture con Strategy, Observer, Factory y Singleton | [Repo](https://github.com/EmilianoBazanZapata/Tetris-Sdl-Tao) |
+| 🏁 **Race Results** | App de consola de resultados de carrera · .NET 10 | Ordenamiento y búsqueda explícitos, organización por features, validaciones, 30 tests xUnit | [Repo](https://github.com/EmilianoBazanZapata/RaceResult) |
 | ⏱️ **Timely** | App de gestión de tiempo · .NET MAUI | Vertical Slice, MediatR y EF Core en una app móvil publicada | [Google Play](https://play.google.com/store/apps/details?id=com.binarysuns.timely) |
 
 Cada repositorio tiene su propio README con capturas, controles, arquitectura y cómo ejecutarlo.
