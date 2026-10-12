@@ -12,6 +12,14 @@ Actualmente trabajo en proyectos personales y académicos que van desde aplicaci
 
 ## 🔗 Acceso rápido
 
+
+
+**Mintaka** es uno de los proyectos principales de Binary Suns Studio.
+
+## 🌌 Mintaka
+👉 **[Mintaka: Dungeon Demo en itch.io](https://emiliano-bazan-zapata.itch.io/mintaka-dungeondemo)**
+
+---
 🏎️ **Apex Rivals — Unity 6 / C# / Arcade Racing**
 👉 [github.com/EmilianoBazanZapata/ApexRivals](https://github.com/EmilianoBazanZapata/ApexRivals)
 
