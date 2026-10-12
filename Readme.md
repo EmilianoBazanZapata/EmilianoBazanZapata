@@ -18,6 +18,9 @@ Actualmente trabajo en proyectos personales y académicos que van desde aplicaci
 🤠 **WesternShooter — Unity 6 / C# / Modular Monolith**
 👉 [github.com/EmilianoBazanZapata/WesternShooter](https://github.com/EmilianoBazanZapata/WesternShooter)
 
+💣 **Buscaminas — C# / Pixel Art**
+👉 [github.com/EmilianoBazanZapata/Buscaminas](https://github.com/EmilianoBazanZapata/Buscaminas)
+
 👑 **Jorge el Rey Justiciero — Unity / C# / Gameplay Refactoring**
 👉 [github.com/EmilianoBazanZapata/JorgeElReyJusticiero](https://github.com/EmilianoBazanZapata/JorgeElReyJusticiero)
 
@@ -265,6 +268,19 @@ El alcance del juego es relativamente pequeño, pero justamente permite concentr
 ### 🔗 Ver proyecto
 
 👉 **[Abrir Jorge el Rey Justiciero en GitHub](https://github.com/EmilianoBazanZapata/JorgeElReyJusticiero)**
+
+---
+
+## 💣 Buscaminas
+
+> 🎮 **Repositorio:**
+> [github.com/EmilianoBazanZapata/Buscaminas](https://github.com/EmilianoBazanZapata/Buscaminas)
+
+**Buscaminas** es una versión del clásico juego de lógica, con una interfaz de estilo pixel art.
+
+### 🔗 Ver proyecto
+
+👉 **[Abrir Buscaminas en GitHub](https://github.com/EmilianoBazanZapata/Buscaminas)**
 
 ---
 
