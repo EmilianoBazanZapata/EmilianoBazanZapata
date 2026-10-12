@@ -30,6 +30,16 @@ Soy Técnico Universitario en Programación (UTN FRC) y hoy curso la **Tecnicatu
 
 Cada repositorio tiene su propio README con capturas, controles, arquitectura y cómo ejecutarlo.
 
+### 🧰 Backend .NET
+
+Proyectos de formación con los que profundicé en arquitectura de APIs y servicios.
+
+| Proyecto | Qué es | Lo más destacado | Links |
+| --- | --- | --- | --- |
+| 🔀 **Microservicios .NET** | Servicios Banking y Transfer comunicados por RabbitMQ · .NET 8 | Clean Architecture, CQRS, Docker, PostgreSQL, deploy en Azure | [Repo](https://github.com/EmilianoBazanZapata/Microservices-.Net) |
+| 🎬 **Clean Architecture y DDD** | API de un catálogo de streaming · .NET 6 | DDD, CQRS con MediatR, FluentValidation, Identity, tests unitarios | [Repo](https://github.com/EmilianoBazanZapata/ASP.NET-Clean-Architecture-y-Domain-Driven-Design-DDD-) |
+| 🏨 **Hotel Listing API** | Web API de hoteles · .NET 6 | CRUD con EF Core, JWT con roles, Serilog, middleware de errores, deploy en Azure | [Repo](https://github.com/EmilianoBazanZapata/ASP.NET-Core-Web-API-Development-Guide) |
+
 ---
 
 ## 🛠️ Tecnologías

@@ -30,6 +30,16 @@ I hold a University Technical Degree in Programming (UTN FRC) and I'm currently 
 
 Each repository has its own README with screenshots, controls, architecture and how to run it.
 
+### 🧰 .NET backend
+
+Training projects I used to go deeper into API and service architecture.
+
+| Project | What it is | Highlight | Links |
+| --- | --- | --- | --- |
+| 🔀 **.NET Microservices** | Banking and Transfer services talking through RabbitMQ · .NET 8 | Clean Architecture, CQRS, Docker, PostgreSQL, Azure deployment | [Repo](https://github.com/EmilianoBazanZapata/Microservices-.Net) |
+| 🎬 **Clean Architecture & DDD** | API for a streaming catalog · .NET 6 | DDD, CQRS with MediatR, FluentValidation, Identity, unit tests | [Repo](https://github.com/EmilianoBazanZapata/ASP.NET-Clean-Architecture-y-Domain-Driven-Design-DDD-) |
+| 🏨 **Hotel Listing API** | Hotel listing Web API · .NET 6 | EF Core CRUD, JWT with roles, Serilog, error-handling middleware, Azure deployment | [Repo](https://github.com/EmilianoBazanZapata/ASP.NET-Core-Web-API-Development-Guide) |
+
 ---
 
 ## 🛠️ Tech
